@@ -23,10 +23,6 @@ def fake_news_det(news):
 
 @app.route('/')
 def home():
-    return render_template('index-1.html')
-
-@app.route('/predict_page')
-def predict_page():
     return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
