@@ -17,7 +17,7 @@ This project aims to build a web application for detecting fake news using machi
 Fake news has become a significant issue in the digital age, spreading misinformation and causing various negative impacts. This project aims to tackle this problem by using machine learning techniques to detect and classify fake news articles.
 
 ## Dataset
-The dataset used for this project contains news articles labeled as real or fake. It includes features such as the title, text, subject, and date of the articles. You can download the dataset from Kaggle.
+The dataset used for this project contains news articles labeled as real or fake. It includes features such as the title, text, subject, and date of the articles. You can download the dataset from Kaggle - "https://www.kaggle.com/datasets/samridhisuri/newscsv".
 
 ## Machine Learning Techniques
 ### TfidfVectorizer
